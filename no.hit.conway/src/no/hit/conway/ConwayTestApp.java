@@ -1,3 +1,5 @@
+package no.hit.conway;
+        
 public class ConwayTestApp {
  
   private Verden V;

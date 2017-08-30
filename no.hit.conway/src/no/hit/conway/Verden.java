@@ -1,3 +1,4 @@
+package no.hit.conway;
 public class Verden {
  
   // Objektvariabler for å representere
